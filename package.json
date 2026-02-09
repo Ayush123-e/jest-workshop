@@ -7,5 +7,12 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "main": "jest.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
